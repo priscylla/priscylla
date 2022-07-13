@@ -31,3 +31,9 @@
   <img align="center" alt="a-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
   <img align="center" alt="a-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">  
 </div>
+
+##
+
+[![Twitter Followers](https://img.shields.io/twitter/follow/priscyllamss?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/priscyllamss) &nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/priscylla?logo=GitHub&style=for-the-badge)](https://github.com/priscylla) &nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/priscylla?logo=github&style=for-the-badge)](https://github.com/priscylla)
