@@ -12,6 +12,12 @@
 - 📫 How to reach me: ...
 -->
 
+### 📑 Useful Repositories/Notebooks:
+
+- Plotting Decision Boundaries: https://github.com/priscylla/Hands-On-XAI/blob/main/Plotting%20Decision%20Boundaries.ipynb
+
+##
+
 <div align="center">
   <a href="https://github.com/priscylla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscylla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,9 +25,7 @@
 </div>
 
 
-### 📑 Useful Repositories/Notebooks:
 
-- Plotting Decision Boundaries: https://github.com/priscylla/Hands-On-XAI/blob/main/Plotting%20Decision%20Boundaries.ipynb
 
 #### 🛠️ Languages and tools:
 <div style="display: inline_block"><br>
