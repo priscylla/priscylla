@@ -15,6 +15,7 @@
 ### 📑 Useful Repositories/Notebooks:
 
 - Plotting Decision Boundaries: https://github.com/priscylla/Hands-On-XAI/blob/main/Plotting%20Decision%20Boundaries.ipynb
+- Plotting graphs and centrality metric using networkx and nxviz: https://github.com/priscylla/network-science-star-wars/blob/main/the-importance-of-characters-in-star-wars-ep-1.ipynb
 
 ##
 
